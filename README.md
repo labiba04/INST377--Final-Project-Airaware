@@ -10,4 +10,5 @@ A real-time air quality dashboard that uses OpenWeatherMap's APIs to help users 
 ## Developer Manual
 See `docs/developer_manual.md`.
 
-![image](https://github.com/user-attachments/assets/4d1aab7c-0d15-4be8-bf49-16720210b742)
+![image](https://github.com/user-attachments/assets/f843871b-99cd-4ef0-bb50-710fd948d28d)
+
